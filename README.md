@@ -86,7 +86,13 @@ Weather-Trend-Forecasting/
 
 ## Results
 
-The project successfully cleaned the dataset, explored weather trends, built a forecasting model, and evaluated its performance.
+The project successfully cleaned and analyzed the weather dataset to identify key trends and patterns. Multiple forecasting models were evaluated, with LightGBM achieving the best performance based on the lowest Mean Absolute Error (MAE).
+
+## 🌍 Interactive Global Weather Map
+
+The interactive weather map is available in `global_weather_map.html`.
+
+> **Note:** GitHub cannot preview large HTML files. Download the file and open it in any web browser to interact with the visualization.
 
 ## Author
 
